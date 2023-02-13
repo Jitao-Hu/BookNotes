@@ -9,10 +9,14 @@
   
   ## Some Practical Tips:
   * Learn at least one new language every year
-  * Read a tech book each quarter
+  * Read a tech book each month
   * Read non-tech books as well
   * Take classes
   * Participate in local user groups
   * Experiment with different environments
-  * Look other tech than the current project
-  * Surf online to read papers and documentations for details on how the technology works, ins & outs
+  * Stay current, read tech news and posts online that are different than your currewnt projects
+  
+  ## Learning opportunities and Criticl thinking
+  * When a question appears, do not let it go, try to find the answers
+  * If you can not find the answer, fnid and ask someone who can
+  * Critically analyze what you read and hear
